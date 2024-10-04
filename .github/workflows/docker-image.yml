@@ -1,6 +1,6 @@
 # 基本镜像
 # FROM alpine:latest
-FROM python:3.12.5-slim-bullseye
+#FROM python:3.12.5-slim-bullseye
 # python:3.12.5-slim-bullseye
 # python3.12.5-精简-debian 11
 # 失败就试试3.13或者3.12
